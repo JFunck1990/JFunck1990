@@ -1,7 +1,9 @@
 ### Hi there, Im Jack 👋
 
 Im a software engineer curently looking for a job and/or freelance work of web development.
-<!--
+- 
+🌱 I’m currently learning React.JS 
+- 📫 How to reach me: jackfunck21@gmail.com
 **JFunck1990/JFunck1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
